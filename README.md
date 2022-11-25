@@ -1,9 +1,10 @@
-# keylog
+# Disclaimer
+
+**This script is for educational purposes only. Do not use it for illegal activities. You are solely responsible for your own actions!**
+
+## keylog
 
 keylogging or keyboard capturing, is the action of recording (logging) the keys struck on a keyboard, typically covertly, so that a person using the keyboard is unaware that their actions are being monitored.
-
-## Disclaimer
-This script is for educational purposes only. Do not use it for illegal activities. You are solely responsible for your own actions!
 
 ## Usage
 > keylogger.js
