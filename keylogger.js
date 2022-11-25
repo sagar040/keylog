@@ -23,4 +23,5 @@ function send(element,srvr,param){
     });
 }
 
+
 // usage : send(element_id, server_url, parameter_name)
