@@ -18,10 +18,8 @@ send(element_id, server_url, parameter_name);
 send('user','http://localhost:5959/main','username');
 send('pass','http://localhost:5959/main','password');
 ```
-> listener.py
+***Install flask***
 ```bash
-# install flask
 pip3 install flask
 ```
-runs on port 5959
 
